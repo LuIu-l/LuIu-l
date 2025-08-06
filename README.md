@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.gifdb.com/4k-anime-498-x-280-gif-9l7tx8ft0qylk07a.gif](https://gifdb.com/gif/4k-anime-498-x-280-gif-9l7tx8ft0qylk07a.html?embed=true)"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHgzeTR0azRpMjF3MHNuem1yeTZ0OG0zNDY1MmJ3OTJxNjIyZnR1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif"/>
 </div>
 
 <!--
