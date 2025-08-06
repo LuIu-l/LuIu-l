@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.gifdb.com/4k-anime-498-x-280-gif-9l7tx8ft0qylk07a.gif"/>
+</div>
 
 <!--
 **LuIu-l/LuIu-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
