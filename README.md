@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=ALIF%20IKHWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=DEVELOPER%20%2F%2F%20VISUAL%20CREATOR&descAlignY=65&descSize=14&animation=twinkling&color=0:09090b,50:111111,100:18181b"
@@ -45,6 +45,6 @@ src="https://komarev.com/ghpvc/?username=Lulu-I&style=flat-square&color=18181b&l
 
 <div align="center">
 
-`NEXT.JS` · `LARAVEL` · `VUE.JS` · `PHOTOGRAPHY`
+`NEXT.JS` · `LARAVEL` · `JS` · `PHOTOGRAPHY`
 
 </div>
