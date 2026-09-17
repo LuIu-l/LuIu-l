@@ -9,8 +9,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=1
 alt="Typing Animation"
 />
 
-<br><br>
-
 <a href="https://github.com/Lulu-I">
 <img src="https://img.shields.io/badge/GITHUB-18181b?style=flat-square&logo=github&logoColor=ffffff" />
 </a>
